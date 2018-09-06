@@ -14,14 +14,23 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
 
 - Bulleted
 - List
+- Test
 
 1. Numbered
 2. List
+3. Testing
+4. 1 2 3
 
 **Bold** and _Italic_ and `Code` text
+**CS 193**
+_TEST_
+
+`System.out.println("Hi I'm Avinash");`
 
 [Link](url) and ![Image](src)
 ```
